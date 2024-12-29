@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egiti\\source\\repos\\XOX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80956A36-D41D-4BBB-A527-E93E99D20125}|XOX\\XOX.vcxproj|C:\\Users\\egiti\\source\\repos\\XOX\\XOX\\xox.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80956A36-D41D-4BBB-A527-E93E99D20125}|XOX\\XOX.vcxproj|solutionrelative:XOX\\xox.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "xox.c",
+              "DocumentMoniker": "C:\\Users\\egiti\\source\\repos\\XOX\\XOX\\xox.c",
+              "RelativeDocumentMoniker": "XOX\\xox.c",
+              "ToolTip": "C:\\Users\\egiti\\source\\repos\\XOX\\XOX\\xox.c",
+              "RelativeToolTip": "XOX\\xox.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-29T09:47:38.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

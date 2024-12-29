@@ -1,0 +1,7 @@
+﻿  xox.c
+C:\Users\egiti\source\repos\XOX\XOX\xox.c(191,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\egiti\source\repos\XOX\XOX\xox.c(221,9): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\egiti\source\repos\XOX\XOX\xox.c(227,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\egiti\source\repos\XOX\XOX\xox.c(239,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\egiti\source\repos\XOX\XOX\xox.c(183,1): warning C4715: 'winner': tüm denetim yolları değer döndürmez
+  XOX.vcxproj -> C:\Users\egiti\source\repos\XOX\x64\Debug\XOX.exe

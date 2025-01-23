@@ -1,0 +1,5 @@
+﻿  neon.c
+C:\Users\egiti\source\repos\neon number\neon number\neon.c(12,24): warning C4244: 'işlev': 'unsigned __int64' - 'int' dönüşümü; veri kaybı olabilir
+  neon number.vcxproj -> C:\Users\egiti\source\repos\neon number\x64\Debug\neon number.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

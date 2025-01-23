@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egiti\\source\\repos\\neon number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E584D1-4A52-40F6-BEA0-E91FCDE1AE2D}|neon number\\neon number.vcxproj|C:\\Users\\egiti\\source\\repos\\neon number\\neon number\\neon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03E584D1-4A52-40F6-BEA0-E91FCDE1AE2D}|neon number\\neon number.vcxproj|solutionrelative:neon number\\neon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "neon.c",
+              "DocumentMoniker": "C:\\Users\\egiti\\source\\repos\\neon number\\neon number\\neon.c",
+              "RelativeDocumentMoniker": "neon number\\neon.c",
+              "ToolTip": "C:\\Users\\egiti\\source\\repos\\neon number\\neon number\\neon.c",
+              "RelativeToolTip": "neon number\\neon.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-10T08:33:57.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\egiti\\source\\repos\\60_milyon_zar\\",
+  "WorkspaceRootPath": "C:\\Users\\egiti\\source\\repos\\HSGunes\\My-C-projects\\60_milyon_zar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAE5594E-CEA1-4D10-BF61-D8382099BD94}|60_milyon_zar\\60_milyon_zar.vcxproj|C:\\Users\\egiti\\source\\repos\\60_milyon_zar\\60_milyon_zar\\zar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EAE5594E-CEA1-4D10-BF61-D8382099BD94}|60_milyon_zar\\60_milyon_zar.vcxproj|C:\\Users\\egiti\\source\\repos\\HSGunes\\My-C-projects\\60_milyon_zar\\60_milyon_zar\\zar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EAE5594E-CEA1-4D10-BF61-D8382099BD94}|60_milyon_zar\\60_milyon_zar.vcxproj|solutionrelative:60_milyon_zar\\zar.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "zar.c",
-              "DocumentMoniker": "C:\\Users\\egiti\\source\\repos\\60_milyon_zar\\60_milyon_zar\\zar.c",
+              "DocumentMoniker": "C:\\Users\\egiti\\source\\repos\\HSGunes\\My-C-projects\\60_milyon_zar\\60_milyon_zar\\zar.c",
               "RelativeDocumentMoniker": "60_milyon_zar\\zar.c",
-              "ToolTip": "C:\\Users\\egiti\\source\\repos\\60_milyon_zar\\60_milyon_zar\\zar.c",
-              "RelativeToolTip": "60_milyon_zar\\zar.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\egiti\\source\\repos\\HSGunes\\My-C-projects\\60_milyon_zar\\60_milyon_zar\\zar.c*",
+              "RelativeToolTip": "60_milyon_zar\\zar.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-12-28T10:54:02.653Z",
               "EditorCaption": ""

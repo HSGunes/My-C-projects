@@ -4,9 +4,9 @@
 #define SIZE 7
 
 int main(void) {
-	srand(time(NULL));
+	srand(20);
 	int frequancy[7] = { 0 };
-for (int i=0;i<60000000;i++){
+for (int i=0;i<6000;i++){
 	int dice = 1+rand()%6;
 	frequancy[dice] += 1;
 

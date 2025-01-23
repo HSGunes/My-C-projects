@@ -1,0 +1,5 @@
+﻿  prime_numbers.c
+C:\Users\egiti\source\repos\prime_numbers\prime_numbers\prime_numbers.c(28,1): warning C4716: 'check_prime' : bir değer döndürmelidir
+  prime_numbers.vcxproj -> C:\Users\egiti\source\repos\prime_numbers\x64\Debug\prime_numbers.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

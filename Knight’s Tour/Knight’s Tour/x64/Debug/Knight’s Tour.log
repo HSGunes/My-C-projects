@@ -1,0 +1,5 @@
+﻿  Knight’s Tour.c
+C:\Users\egiti\source\repos\Knight’s Tour\Knight’s Tour\Knight’s Tour.c(23,8): warning C4244: 'işlev': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Knight’s Tour.vcxproj -> C:\Users\egiti\source\repos\Knight’s Tour\x64\Debug\Knight’s Tour.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
